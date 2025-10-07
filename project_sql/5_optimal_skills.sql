@@ -10,6 +10,7 @@ WHERE j.job_title_short = 'Data Analyst'
       AND j.job_work_from_home = True
       AND j.salary_year_avg IS NOT NULL
 GROUP BY s.skills
-ORDER BY skill_count DESC, average_salary_usd DESC
+HAVING COUNT(j.job_id) > 10
+ORDER BY average_salary_usd DESC, skill_count DESC
 LIMIT 25;
 
