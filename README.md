@@ -68,7 +68,7 @@ ORDER BY salary_year_avg DESC
 LIMIT 10;
 ```
 
-![Top Paying Roles](assets\top_paying_jobs_2023_new.png)
+![Top Paying Roles](assets/top_paying_jobs_2023_new.png)
 *Bar graph visualizing the salary for the top 10 salaries for data analysts, ChatGPT generated this graph from my SQL query results*
 
 Here's the breakdown of the top data analyst jobs in 2023:
@@ -115,7 +115,7 @@ ORDER BY
 LIMIT 10;
 ```
 
-![Skills For Top Paying Jobs](assets\skills_top_paying_jobs_2023_new.png)
+![Skills For Top Paying Jobs](assets/skills_top_paying_jobs_2023_new.png)
 *Bar graph visualizing the skills required for the top 10 salaries for data analysts, ChatGPT generated this graph from my SQL query results*
 
 Here's the breakdown of the skills required for the top data analyst jobs in 2023:
