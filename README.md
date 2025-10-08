@@ -30,11 +30,11 @@ To explore and analyze trends in the data analytics job market, I relied on a fe
 
 During this journey, I've significantly boosted my SQL skills with powerful techniques:
 
-- **💡 Advanced Query Building:** Mastered the craft of writing sophisticated SQL queries, expertly combining tables and using WITH clauses for complex temporary table operations.
+- **Advanced Query Building:** Mastered the craft of writing sophisticated SQL queries, expertly combining tables and using WITH clauses for complex temporary table operations.
 
-- **📊 Data Aggregation:** Got comfortable using GROUP BY and aggregate functions like COUNT() and AVG() to turn raw data into meaningful summaries.
+- **Data Aggregation:** Got comfortable using GROUP BY and aggregate functions like COUNT() and AVG() to turn raw data into meaningful summaries.
 
-- **🧙‍♂️ Data Analysis Wizardry:** Sharpened my problem-solving skills by transforming challenging questions into smart, actionable SQL solutions.
+- **Data Analysis Wizardry:** Sharpened my problem-solving skills by transforming challenging questions into smart, actionable SQL solutions.
 
 # The Analysis
 
