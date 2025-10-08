@@ -248,7 +248,7 @@ ORDER BY average_salary_usd DESC, skill_count DESC
 LIMIT 25;
 ```
 
-| Rank | Skill      | Skill Count | Average Salary (USD) |
+| Rank | Skill      | Job Count   | Average Salary (USD) |
 | ---- | ---------- | ----------- | -------------------- |
 | 1    | Go         | 20          | 116,147              |
 | 2    | R          | 103         | 103,431              |
