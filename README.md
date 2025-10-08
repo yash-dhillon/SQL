@@ -171,6 +171,7 @@ LIMIT 5;
 | 8    | PowerPoint       | 50        |
 | 9    | Word             | 50        |
 | 10   | Microsoft Office | 45        |
+
 *Table of the most in-demand skills for data analyst jobs in 2023*
 
 
@@ -222,6 +223,7 @@ LIMIT 25;
 | 8    | R       | 103,431              |
 | 9    | Python  | 102,992              |
 | 10   | NoSQL   | 102,865              |
+
 *Table of the top paying skills for data analyst jobs in 2023*
 
 
@@ -261,6 +263,7 @@ LIMIT 25;
 | 6    | SAS        | 84          | 102,161              |
 | 7    | SQL        | 297         | 98,269               |
 | 8    | VBA        | 20          | 88,015               |
+
 *Table of the most optimal skills for data analyst jobs in 2023*
 
 
