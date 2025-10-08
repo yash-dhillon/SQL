@@ -161,16 +161,11 @@ LIMIT 5;
 ```
 | Rank | Skill Name       | Job Count |
 | ---- | ---------------- | --------- |
-| 1    | SQL              | 398       |
-| 2    | Excel            | 256       |
-| 3    | Python           | 236       |
-| 4    | Tableau          | 230       |
-| 5    | Power BI         | 176       |
-| 6    | SAS              | 80        |
-| 7    | R                | 58        |
-| 8    | PowerPoint       | 50        |
-| 9    | Word             | 50        |
-| 10   | Microsoft Office | 45        |
+| 1    | SQL              | 5178      |
+| 2    | Python           | 3068      |
+| 3    | R                | 1508      |
+| 4    | SAS              | 1368      |
+| 5    | GO               | 573       |
 
 *Table of the most in-demand skills for data analyst jobs in 2023*
 
