@@ -1,6 +1,6 @@
 # Introduction
 
-Jump into the world of data analytics careers! This project takes a deep look into roles for data analysts—highlighting the most lucrative positions 💰, the most sought-after skills 🔥, and ✅ where high-paying jobs align with high-demand expertise.
+This project examines the data analytics career landscape, analyzing data analyst roles to uncover which positions offer the best compensation, which skills employers value most, and where high salaries meet high demand.
 
 👉 SQL queries used? Browse the scripts here: [project_sql folder](/project_sql/)
 
